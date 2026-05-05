@@ -1,0 +1,9 @@
+# Python virtual environments — can always be recreated, no need to commit
+venv/
+
+# Secrets and API keys — NEVER commit these
+.env
+
+# Python compiled cache files
+__pycache__/
+*.pyc
